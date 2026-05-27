@@ -15,6 +15,7 @@ This repository contains a lightweight, fully containerized backend microservice
 ## Tech Stack
 
 | Category | Technology |
+| :--- | :--- |
 | **Framework** | Python 3.10, FastAPI |
 | **Data Processing** | Pandas |
 | **Server** | Uvicorn |
@@ -28,7 +29,7 @@ Running this microservice requires zero local Python configuration. All you need
 
 1. Clone the repository:
 
-git clone [https://github.com/ilkinabdulla1/Fastapi-Dataparser-poc.git]
+git clone [https://github.com/ilkinabdulla1/FastAPI-Dataparser-poc.git]
 cd fastapi-data-parser-poc
 
 2. Build and start the container:
